@@ -50,9 +50,10 @@ pickle module for saving/loading registry data.
 
 **File Descriptions**
 
-Car_program.py: Implements the program logic and menu interface.
-vehicles.py: Contains class definitions for vehicles and speed tickets.
-vehicle_registry.txt: Contains registered cars.
+- **Car_program.py**: Implements the program logic and menu interface.
+- **vehicles.py**: Contains class definitions for vehicles and speed tickets.
+- **vehicle_registry.txt**: Stores registered vehicles persistently.
+- **box_a.txt, box_b.txt**: Checkpoint files containing vehicle registration numbers and timestamps for speed analysis.
 
 **License**
 
